@@ -37,18 +37,10 @@ Welcome to my GitHub profile! I'm passionate about learning programming, buildin
 
 ---
 
-## 🚀 Projects
-Here are some of the projects I've been working on:
-
-- 🔹 Project 1 – Description of your project
-- 🔹 Project 2 – Description of your project
-- 🔹 Project 3 – Description of your project
-
----
 
 ## 📫 How to Reach Me
 
-- 📧 Email: your-email@example.com
+- 📧 Email: skinder226@gmail.com
 - 💼 LinkedIn: (add your LinkedIn link)
 - 🌐 Portfolio: (add portfolio link if you have one)
 
