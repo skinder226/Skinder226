@@ -41,8 +41,8 @@ Welcome to my GitHub profile! I'm passionate about learning programming, buildin
 ## 📫 How to Reach Me
 
 - 📧 Email: skinder226@gmail.com
-- 💼 LinkedIn: (add your LinkedIn link)
-- 🌐 Portfolio: (add portfolio link if you have one)
+- 💼 LinkedIn: https://www.linkedin.com/in/skinder-op-9944753b5
+- 🌐 AllHandles: https://skinderoplinks.vercel.app/
 
 ---
 
